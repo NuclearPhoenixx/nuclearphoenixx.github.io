@@ -6,7 +6,7 @@ let width = window.innerWidth || document.documentElement.clientWidth || documen
 
 // SNOW IN WINTER - ONLY DESKTOP?
 //if(width>=1800 && (now.getMonth()==0 || now.getMonth()==1 || now.getMonth()==11)){
-if(if(width>=1600 && (now.getMonth()==0 || now.getMonth()==1 || now.getMonth()==11)){
+if(width>=1600 && (now.getMonth()==0 || now.getMonth()==1 || now.getMonth()==11)){
 		//snow("200,200,200");
     new Snowflakes({
       //color: '#f00', // Default: "#5ECDEF"
