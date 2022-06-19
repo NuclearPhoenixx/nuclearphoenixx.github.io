@@ -2,6 +2,7 @@
 @font-face {
 	font-family: "Ubuntu";
 	src: url("/assets/webfonts/Ubuntu-Light.ttf");
+	font-display: swap;
 }
 
 body{
