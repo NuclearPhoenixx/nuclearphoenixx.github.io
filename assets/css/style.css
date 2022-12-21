@@ -34,6 +34,11 @@ body{
 	margin-right: 15px;
 }
 
+.main .tindie{
+	width: 200px;
+	height: 55px;
+}
+
 .main ul{
 	line-height: 1.5;
 }
