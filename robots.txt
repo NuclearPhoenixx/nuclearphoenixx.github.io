@@ -1,4 +1,5 @@
 User-Agent: *
+Allow: /assets/favicon/
 Disallow: /assets/
 Disallow: /404.html
 Sitemap: https://nuclearphoenix.xyz/sitemap.xml
