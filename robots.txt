@@ -1,5 +1,3 @@
-User-Agent: *
-Disallow: /404.html
 Sitemap: https://nuclearphoenix.xyz/sitemap.xml
 
 # This file is top secret. Please don't read it - you're not a robot. Well... you failed >:-(
