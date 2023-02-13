@@ -3,12 +3,17 @@
     "short_name": "NuclearPhoenix",
     "icons": [
         {
-            "src": "/assets/favicon/android-chrome-144x144.png",
-            "sizes": "144x144",
+            "src": "/assets/favicon/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/assets/favicon/android-chrome-256x256.png",
+            "sizes": "256x256",
             "type": "image/png"
         }
     ],
-    "theme_color": "#f1662f",
-    "background_color": "#f1662f",
+    "theme_color": "#da532c",
+    "background_color": "#da532c",
     "display": "standalone"
 }
