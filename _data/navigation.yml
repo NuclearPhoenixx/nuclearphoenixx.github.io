@@ -1,0 +1,46 @@
+# main links
+main:
+  - title: "Posts"
+    url: /posts/
+  - title: "Hardware"
+    url: /hardware/
+  - title: "Software"
+    url: /software/
+  - title: "Gamma MCA"
+    url: https://spectrum.nuclearphoenix.xyz
+  - title: "Gamma DB"
+    url: https://gammadb.nuclearphoenix.xyz
+
+hardware:
+  - title: "Overview"
+    url: /hardware/
+    children:
+      - title: "Mini SiPM Driver Board"
+        url: /hardware/mini-sid/
+      - title: "Open Gamma Detector"
+        url: /hardware/ogd/
+      - title: "Peltier Cloud Chamber"
+        url: /hardware/peltier-cloud-chamber/
+      - title: "SiPM PCBs and Breakouts"
+        url: /hardware/sipm-pcbs/
+
+software:
+  - title: "Overview"
+    url: /software/
+    children:
+      - title: "Arduino Libraries"
+        url: /software/arduino-libs/
+      - title: "Gamma MCA"
+        url: /software/gamma-mca/
+      - title: "Gamma Spectrum Database"
+        url: /software/gamma-spectrum-db/
+      - title: "Godot Engine Projects"
+        url: /software/godot/
+      - title: "Kobra Neo Firmware"
+        url: /software/kobra-neo/
+      - title: "NPES-JSON Schema"
+        url: /software/npes-json/
+      - title: "UVIEMON"
+        url: /software/uviemon/
+      - title: "vmath.hpp"
+        url: /software/vmath/

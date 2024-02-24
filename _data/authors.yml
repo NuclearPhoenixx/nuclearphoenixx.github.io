@@ -1,0 +1,24 @@
+# ALL AUTHOR PROFILES FOR THE PAGE
+
+NuclearPhoenix:
+  name: NuclearPhoenix
+  display_name: Matthias
+  avatar: "/assets/images/nuclearphnx.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: "Everything can be done with a microcontroller!"
+  email: "hello@nuclearphoenix.xyz"
+  github: NuclearPhoenixx
+  links:
+    - label: "Hackaday"
+      icon: "fas fa-fw fa-link"
+      url: "https://hackaday.io/NuclearPhoenix"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCOx4wO-tg43cNy3InN3x5Jw"
+
+OpenGammaProject:
+  name: Open Gamma Project
+  display_name: Open Gamma Project
+  avatar: /assets/images/opengamma.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio: Bringing you all the tools necessary for gamma spectrometry and radiation detection. Maker of Open Hardware!
+  email: opengamma@nuclearphoenix.xyz
+  github: OpenGammaProject

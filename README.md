@@ -1,13 +1,11 @@
 # nuclearphoenixx.github.io
 
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fnuclearphoenix.xyz&style=flat-square) ![GitHub deployments](https://img.shields.io/github/deployments/NuclearPhoenixx/nuclearphoenixx.github.io/github-pages?label=GitHub%20%20Pages&style=flat-square)
+
 ## nuclearphoenix.xyz
 
-Neat little website for all of my stuff, nothing more, nothing less.
+Website for all of my stuff, nothing more, nothing less.
 
-Using following 3rd party software:
+Built using Jekyll and my own fork of the minimal-mistakes theme: [NuclearPhoenixx/minimal-mistakes](https://github.com/NuclearPhoenixx/minimal-mistakes)
 
-* [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome)
-* [hcodes/snowflakes](https://github.com/hcodes/snowflakes)
-* [Ubuntu font](https://ubuntu.com/legal/font-licence)
-
-Copyright 2022, myself.
+Copyright 2024, myself.
