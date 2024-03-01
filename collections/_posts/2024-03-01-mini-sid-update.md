@@ -2,8 +2,8 @@
 author: NuclearPhoenix
 title: 'Mini SiD Revision 4.1'
 date: 2024-03-01 13:00:00 +0200
-last_modified_at: 2024-03-01 13:00:00 +0200
-categories: announcements, project-update, hardware
+last_modified_at: 2024-03-01 13:21:00 +0200
+categories: announcements project-update hardware
 ---
 
 Just updated the GitHub repository for the Mini SiD for a smaller revision 4.1 launch.
