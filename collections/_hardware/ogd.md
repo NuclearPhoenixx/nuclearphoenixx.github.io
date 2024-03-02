@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/hardware/ogd1.png
 #collection: hardware
 #date: 2022-06-07 21:00:00 +0200
-last_modified_at: 2024-02-23 15:10:00 +0200
+last_modified_at: 2024-03-02 18:10:00 +0200
 toc: true
 toc_sticky: true
 
@@ -24,9 +24,9 @@ gallery:
 
 ## Description
 
-Open hardware for a hackable scintillation counter and multichannel analyzer (MCA) all-in-one device using a popular NaI(Tl) scintillation crystal and a silicon photomultiplier (SiPM). Extremely affordable design for a DIY gamma spectroscopy setup with a total parts cost of under around 200 USD.
+Open hardware for a hackable gamma spectrometer all-in-one device using a popular NaI(Tl) scintillation crystal and a silicon photomultiplier (SiPM). Extremely affordable design for a powerful DIY gamma spectroscopy setup with a total parts cost of under around 200 USD.
 
-The detector uses a standard serial-over-USB connection so that it can be integrated into as many other projects as possible, for example data logging with a Raspberry Pi, weather stations, Arduino projects, etc.
+The detector uses a standard serial-over-USB and hardware UART connections so that it can be integrated into as many other projects as possible, for example data logging with a Raspberry Pi, weather stations, Arduino projects, etc. It includes both scintillation counter and multichannel analyzer (MCA) functions depending on how you want to use it.
 
 ## Media
 
