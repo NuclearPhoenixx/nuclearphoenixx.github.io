@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/software/gamma-mca1.png
 #collection: hardware
 #date: 2022-06-07 21:00:00 +0200
-last_modified_at: 2024-02-23 15:10:00 +0200
+last_modified_at: 2024-03-02 18:32:00 +0200
 toc: true
 toc_sticky: true
 
@@ -24,7 +24,7 @@ gallery:
 
 ## Description
 
-Progressive web application for gamma spectroscopy (multi-channel analyzer/MCA) including file and live plot support via the serial interface.
+Progressive web application for gamma spectroscopy (multi-channel analyzer/MCA) including file import/export of various formats and live plot support via the serial interface. Designed to be straightforward and easy to use.
 
 For a complete and up-to-date list of features head to the GitHub repository below.
 
