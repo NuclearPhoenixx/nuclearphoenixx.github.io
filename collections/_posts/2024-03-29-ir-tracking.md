@@ -2,8 +2,8 @@
 author: NuclearPhoenix
 title: My Own IR Head Tracking Clip
 date: 2024-03-29 19:30:00 +0200
-last_modified_at: 2024-03-29 19:30:00 +0200
-categories: showcase hardware
+last_modified_at: 2024-03-29 19:40:00 +0200
+categories: showcase hardware sim
 ---
 
 I want to show you another project that I have been working on in the mean time. I needed good face tracking for my flight sim setup for which I was actually using Opentrack with AItrack previously (until I noticed that this feature was already built into Opentrack itself lol). However, face tracking wasn't doing it for me anymore. I really don't like the fact that you always have to be perfectly lit and you cannot tilt your head too much or the tracker will lose your face. It wasn't the most responsive either, so I wanted to switch to IR tracking!
