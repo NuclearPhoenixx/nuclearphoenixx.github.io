@@ -15,6 +15,8 @@ hardware:
   - title: "Overview"
     url: /hardware/
     children:
+      - title: "Slim IR Tracking Clip"
+        url: /hardware/ir-tracking-clip/
       - title: "Mini SiPM Driver Board"
         url: /hardware/mini-sid/
       - title: "Open Gamma Detector"
