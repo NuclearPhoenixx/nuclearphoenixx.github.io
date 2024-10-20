@@ -35,6 +35,7 @@ Trace thickness and length depends on the type of radiation: thin and long trace
 ## Media
 
 - [heise magazine: Make](https://www.heise.de/select/make/2024/1/2334215135301462168)
+- [Elektor Mag 7/2024](https://www.elektormagazine.com/magazine/elektor-346/62907)
 - [HACKADAY](https://hackaday.com/2023/08/16/building-a-peltier-powered-cloud-chamber/)
 
 ## More info about this project
