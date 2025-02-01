@@ -19,7 +19,7 @@ title                    : "NuclearPhoenix"
 title_separator          : ""
 subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "NuclearPhoenix"
-description              : "Hello there! I'm NuclearPhoenix - a physics and astronomy student who loves tinkering with electronics and programming. Everything can be done with a microcontroller!"
+description              : "NuclearPhoenix - random internet dude with two degrees in physics and astronomy who loves tinkering with electronics, programming and all kinds of other interesting things!"
 url                      : "https://nuclearphoenix.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "NuclearPhoenixx/nuclearphoenixx.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -27,7 +27,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : "/assets/images/nuclearphnx.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 150
 enable_copy_code_button  : true # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
