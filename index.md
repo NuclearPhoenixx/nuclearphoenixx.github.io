@@ -3,7 +3,7 @@ title: 'Hello There! 👋'
 layout: splash #posts #home
 classes: wide
 
-excerpt: "I'm a physics and astronomy student who loves to tinker with electronics and programming. Learning new things and applying this knowledge to build stuff and see for yourself is awesome!"
+excerpt: "I'm a graduate in physics and astronomy, and someone that loves to tinker with electronics, programming and anything interesting really. Learning new things and applying this knowledge to build stuff and see for yourself is awesome!"
 
 header:
   overlay_image: /assets/images/header.png
@@ -36,6 +36,6 @@ gallery:
 
 <p align="center"><strong id="extra"><!-- For some extra JS fun --></strong></p>
 
-Welcome to my site. This is where I showcase some of my projects and also try to maintain a somewhat regular blog. You can navigate to each of the individual categories by using the navigation bar on the top.
+Welcome to my personal website, I'm glad you found me. This is where I showcase some of my projects and also try to maintain a somewhat regular blog, although it's usually less frequent - you know how it is. Feel free to take a look around!
 
-{% include gallery caption="A small (very small) selection of some of my *fancy* projects. ☺️" %}
+{% include gallery caption="A small (**very** small) selection of some of my more *fancy* projects. ☺️" %}
