@@ -1,4 +1,4 @@
-# This file is top secret. Please don't read it - you're not a robot. Well... you failed >:-(
+# Hey there, this file is top-secret, you're not allowed to read it! >:-(
 
 User-agent: *
 Disallow: /legal/
