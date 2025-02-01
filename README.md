@@ -4,8 +4,10 @@
 
 ## nuclearphoenix.xyz
 
-Website for all of my stuff, nothing more, nothing less.
+Website for me personally, all of my stuff and rare blog posts, nothing more, nothing less.
 
-Built using Jekyll and my own fork of the minimal-mistakes theme: [NuclearPhoenixx/minimal-mistakes](https://github.com/NuclearPhoenixx/minimal-mistakes)
+Built using Jekyll and the _minimal-mistakes_ theme: [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes/)
 
-Copyright 2024, myself.
+Copyright 2024-2025, myself. Please don't re-use anything in this repo for your own use. It's only public because I've got nothing to hide ;^)
+
+If you notice anything off, please let me know and open an issue or PR.
