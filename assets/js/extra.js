@@ -7,17 +7,19 @@ let now = new Date(), year = now.getFullYear();
 let width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
 
 // Show snow in winter, but only on desktop for performance reasons
-if (!navigator.userAgent.toLowerCase().match(/mobile|tablet|android|webos|iphone|ipad|ipod|blackberry|bb|playbook|iemobile|windows phone|kindle|silk|opera mini/i)) {
-  // NOT mobile device
-  new Snowflakes({
-    color: '#66ccff', // Default: "#5ECDEF"
-    count: 15, // 100 snowflakes. Default: 50
-    minOpacity: 0.2, // From 0 to 1. Default: 0.6
-    maxOpacity: 0.6, // From 0 to 1. Default: 1
-    minSize: 5, // Default: 10
-    maxSize: 30, // Default: 25
-    speed: 2, // The property affects the speed of falling. Default: 1
-  });
+if (now.getMonth() == 11 || now.getMonth() == 0 || now.getMonth() == 1) {
+  if (!navigator.userAgent.toLowerCase().match(/mobile|tablet|android|webos|iphone|ipad|ipod|blackberry|bb|playbook|iemobile|windows phone|kindle|silk|opera mini/i)) {
+    // NOT mobile device
+    new Snowflakes({
+      color: '#66ccff', // Default: "#5ECDEF"
+      count: 15, // 100 snowflakes. Default: 50
+      minOpacity: 0.2, // From 0 to 1. Default: 0.6
+      maxOpacity: 0.6, // From 0 to 1. Default: 1
+      minSize: 5, // Default: 10
+      maxSize: 30, // Default: 25
+      speed: 2, // The property affects the speed of falling. Default: 1
+    });
+  }
 }
 
 const ele = document.getElementById('extra');
