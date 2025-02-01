@@ -1,12 +1,14 @@
-/* Some random javascript crap for the website. */
+/*
+  Some random JavaScript crap for the website.
+*/
 
-// INIT
+// Init some variables
 let now = new Date(), year = now.getFullYear();
 let width = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
 
-// SNOW IN WINTER - ONLY DESKTOP?
-//if(width>=1800 && (now.getMonth()==0 || now.getMonth()==1 || now.getMonth()==11)){
-if ( width >= 1600 && (now.getMonth() == 0 || now.getMonth() == 1 || now.getMonth() == 11) ) {
+// Show snow in winter, but only on desktop for performance reasons
+if (!navigator.userAgent.toLowerCase().match(/mobile|tablet|android|webos|iphone|ipad|ipod|blackberry|bb|playbook|iemobile|windows phone|kindle|silk|opera mini/i)) {
+  // NOT mobile device
   new Snowflakes({
     color: '#66ccff', // Default: "#5ECDEF"
     count: 15, // 100 snowflakes. Default: 50
