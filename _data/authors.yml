@@ -19,6 +19,6 @@ OpenGammaProject:
   name: Open Gamma Project
   display_name: Open Gamma Project
   avatar: /assets/images/opengamma.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: Bringing you all the tools necessary for gamma spectrometry and radiation detection. Maker of Open Hardware!
+  bio: Maker of Open Hardware! Bringing you all the tools necessary for gamma spectrometry and radiation detection.
   email: opengamma@nuclearphoenix.xyz
   github: OpenGammaProject
