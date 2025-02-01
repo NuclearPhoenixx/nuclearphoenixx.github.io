@@ -24,6 +24,10 @@ Open and comprehensive database of (common) gamma-ray emitting radioisotopes for
 
 All of the spectra have been generated using the Gamma MCA HTML export function.
 
+## Publications
+
+- [Computational generation of tailored radionuclide libraries for alpha-particle and gamma-ray spectrometry](https://doi.org/10.1103/PhysRevResearch.6.043208)
+
 ## More info about this project
 
 [<i class="fab fa-github"></i> GitHub](https://github.com/OpenGammaProject/Gamma-Spectrum-Database){: .btn .btn--primary .btn--large}

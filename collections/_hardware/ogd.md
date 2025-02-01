@@ -38,6 +38,10 @@ The detector uses a standard serial-over-USB and hardware UART connections so th
 - [Hacker News](https://news.ycombinator.com/item?id=31975959)
 - [HACKADAY](https://hackaday.com/2022/05/03/identify-radioactive-samples-with-this-diy-gamma-ray-spectrometer/)
 
+## Publications
+
+- [Open-Source Hardware and Cost-Effective Gamma-Ray Spectrometer Using Raspberry Pi Pico](http://dx.doi.org/10.2139/ssrn.4996723)
+
 ## More info about this project
 
 [<i class="fab fa-github"></i> GitHub](https://github.com/OpenGammaProject/Open-Gamma-Detector){: .btn .btn--primary .btn--large}
