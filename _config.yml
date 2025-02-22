@@ -19,7 +19,7 @@ title                    : "NuclearPhoenix"
 title_separator          : ""
 subtitle                 : "" # site tagline that appears below site title in masthead
 name                     : "NuclearPhoenix"
-description              : "NuclearPhoenix - random internet physicist/astronomer dude with who loves tinkering with electronics, programming and researching all kinds of other interesting things!"
+description              : "NuclearPhoenix - Just a physics and astronomy nerd who loves experimenting with electronics, coding, and diving into fascinating topics."
 url                      : "https://nuclearphoenix.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "NuclearPhoenixx/nuclearphoenixx.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"

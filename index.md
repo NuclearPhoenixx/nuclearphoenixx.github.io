@@ -3,11 +3,11 @@ title: 'Hello There! 👋'
 layout: splash #posts #home
 classes: wide
 
-excerpt: "I'm a graduate in physics and astronomy, and someone that loves to tinker with electronics, programming and anything interesting really. Learning new things and applying this knowledge to build stuff and see for yourself is awesome!"
+excerpt: "I'm a physics and astronomy enthusiast with a passion for tinkering - whether it's electronics, programming, or diving into all kinds of fascinating topics. I love exploring how things work, learning new skills, and applying that knowledge to build and experiment."
 
 header:
   overlay_image: /assets/images/header.png
-  caption: 'Open Gamma Detector PCB'
+  caption: 'Pixelated cosmic microwave background'
   #overlay_filter: 0.5
   #show_overlay_excerpt: false
   overlay_filter: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, .3))
