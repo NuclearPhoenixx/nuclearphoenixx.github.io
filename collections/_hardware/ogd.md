@@ -40,7 +40,7 @@ The detector uses a standard serial-over-USB and hardware UART connections so th
 
 ## Publications
 
-- [Open-Source Hardware and Cost-Effective Gamma-Ray Spectrometer Using Raspberry Pi Pico](http://dx.doi.org/10.2139/ssrn.4996723)
+- [Open-Source Hardware and Cost-Effective Gamma-Ray Spectrometer Using Raspberry Pi Pico](https://doi.org/10.1016/j.radphyschem.2025.112728)
 
 ## More info about this project
 
