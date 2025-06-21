@@ -11,3 +11,5 @@ Built using Jekyll and the _minimal-mistakes_ theme: [mmistakes/minimal-mistakes
 Copyright 2024-2025, myself. Please don't re-use anything in this repo for your own use. It's only public because -- meh -- why not ;^)
 
 If you notice anything off, please let me know and open an issue or PR.
+
+Note to self: Build and deploy locally using `bundle exec jekyll serve --force_polling --livereload`
