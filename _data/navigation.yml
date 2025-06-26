@@ -38,6 +38,8 @@ software:
         url: /software/gamma-spectrum-db/
       - title: "Godot Engine Projects"
         url: /software/godot/
+      - title: "Infiniterra"
+        url: /software/infiniterra/
       - title: "Kobra Neo Firmware"
         url: /software/kobra-neo/
       - title: "NPES-JSON Schema"
