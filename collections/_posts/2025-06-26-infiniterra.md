@@ -6,7 +6,7 @@ last_modified_at: 2025-06-26 18:00:00 +0200
 categories: announcements showcase games
 
 header:
-  image: /assets/images/posts/infiniterra-header.png
+  image: /assets/images/software/infiniterra1.png
   #caption: ''
 
 #toc: true
