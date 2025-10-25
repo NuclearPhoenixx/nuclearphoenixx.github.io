@@ -40,4 +40,4 @@ The goal is straightforward: recreate something like the early Minecraft Java Al
 
 <iframe width="600" height="180" src="https://www.indiedb.com/games/infiniterra/widget" frameborder="0"></iframe>
 
-[<i class="fas fa-link"></i> IndieDB](https://www.indiedb.com/games/infiniterra){: .btn .btn--primary .btn--large}
+[<i class="fas fa-link"></i> IndieDB](https://infiniterra.net){: .btn .btn--primary .btn--large}
