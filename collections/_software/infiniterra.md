@@ -5,7 +5,7 @@ header:
   teaser: /assets/images/software/infiniterra1.png
 #collection: hardware
 #date: 2022-06-07 21:00:00 +0200
-last_modified_at: 2025-06-26 18:00:00 +0200
+last_modified_at: 2026-02-27 20:00:00 +0200
 #toc: true
 #toc_sticky: true
 
