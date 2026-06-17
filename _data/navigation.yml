@@ -7,9 +7,9 @@ main:
   - title: "Software"
     url: /software/
   - title: "Gamma MCA"
-    url: https://spectrum.nuclearphoenix.xyz
+    url: https://spectrum.nuclearphoenix.net
   - title: "Gamma DB"
-    url: https://gammadb.nuclearphoenix.xyz
+    url: https://gammadb.nuclearphoenix.net
 
 hardware:
   - title: "Overview"
