@@ -1,8 +1,8 @@
 # nuclearphoenixx.github.io
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fnuclearphoenix.xyz&style=flat-square) ![GitHub deployments](https://img.shields.io/github/deployments/NuclearPhoenixx/nuclearphoenixx.github.io/github-pages?label=GitHub%20%20Pages&style=flat-square)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fnuclearphoenix.net&style=flat-square) ![GitHub deployments](https://img.shields.io/github/deployments/NuclearPhoenixx/nuclearphoenixx.github.io/github-pages?label=GitHub%20%20Pages&style=flat-square)
 
-## nuclearphoenix.xyz
+## nuclearphoenix.net
 
 Website for me personally, all of my stuff and rare blog posts, nothing more, nothing less.
 
