@@ -23,7 +23,7 @@ I will be happy to provide further information upon request.
 
 ## Disclaimer
 
-All the information on this website - [https://nuclearphoenix.xyz](https://nuclearphoenix.xyz) - is published in good faith and for general information purpose only. The NuclearPhoenix website does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (The NuclearPhoenix website), is strictly at your own risk. The NuclearPhoenix website will not be liable for any losses and/or damages in connection with the use of my website.
+All the information on this website - [https://nuclearphoenix.net](https://nuclearphoenix.net) - is published in good faith and for general information purpose only. The NuclearPhoenix website does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (The NuclearPhoenix website), is strictly at your own risk. The NuclearPhoenix website will not be liable for any losses and/or damages in connection with the use of my website.
 
 From this site, you can visit other websites by following hyperlinks to such external sites. While I strive to provide only quality links to useful and ethical websites, I have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites. Site owners and content may change without notice and may occur before I have the opportunity to remove a link which may have gone 'bad'.
 
