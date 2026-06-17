@@ -3,4 +3,4 @@
 User-agent: *
 Disallow: /legal/
 
-Sitemap: https://nuclearphoenix.xyz/sitemap.xml
+Sitemap: https://nuclearphoenix.net/sitemap.xml
