@@ -9,7 +9,7 @@ categories: announcements
 I have finally looked into how to set up a commenting feature for some pages and here I am now.
 
 This website now uses giscus to offer comments for all of the blog posts on here, yay!
-I'm going to update the [Gamma Spectrum Database](https://gammadb.nuclearphoenix.xyz/) with the same feature momentarily.
+I'm going to update the [Gamma Spectrum Database](https://gammadb.nuclearphoenix.net/) with the same feature momentarily.
 
 Giscus is a very straightforward way to enable commenting on a website and it's built-in straight to the Jekyll theme I'm using.
 It uses my own GitHub repos to store the comments in the repo's "Discussion" section and you only need a GitHub account to comment.
