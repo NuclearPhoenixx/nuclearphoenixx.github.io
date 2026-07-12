@@ -3,7 +3,7 @@ title: 'Hello There! 👋'
 layout: splash #posts #home
 classes: wide
 
-excerpt: "I'm a physics and astronomy enthusiast with a passion for tinkering - whether it's electronics, programming, or diving into all kinds of fascinating topics. I love exploring how things work, learning new skills, and applying that knowledge to build and experiment."
+excerpt: "Physicist and technical problem-solver with a passion for electronics, programming, and turning theory into practice. I specialize in building and experimenting to create innovative solutions."
 
 header:
   overlay_image: /assets/images/header.png
